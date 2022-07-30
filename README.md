@@ -18,7 +18,7 @@
 <h1 align="left">Formação</h1>
   <ul>
     <li>B7Web - Frontend do Zero ao Profissional (Prof. Bonieky Lacerda)</li>
-    <li>Curso em Vídeo (Prof. Gustavo Guanabara)</li>
+    <li>Curso em Vídeo (Prof. Gustavo Guanabara)-HTML, CSS, JavaScript, WordPress</li>
     <li>Build Responsive Real-World Websites with HTML and CSS (Prof. Jonas Schmedtmann)</li>
     <li>The Complete JavaScript Course: From Zero to Expert! (Prof. Jonas Schmedtmann)</li>
     <li>Modern React with Redux (Prof. Stephen Grider)</li>
