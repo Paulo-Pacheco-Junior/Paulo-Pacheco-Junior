@@ -2,6 +2,15 @@
 
 ###
 <h1 align="left">I code with</h1>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Bootstrap</li>
+    <li>jQuery</li>
+    <li>React.Js</li>
+    <li>Next.Js</li>
+  </ul>
 
 ###
 <div align="left">
@@ -13,17 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg" height="40" width="52" alt="nextjs logo"  />
 </div>
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>Bootstrap</li>
-    <li>jQuery</li>
-    <li>React.Js</li>
-    <li>Next.Js</li>
-   
-  </ul>
-
 
 ###
 <h1 align="left">Education and Training</h1>
