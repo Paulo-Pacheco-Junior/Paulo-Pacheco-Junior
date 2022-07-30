@@ -6,8 +6,7 @@
     <li>HTML, CSS, JavaScript</li>
     <li>Bootstrap</li>
     <li>jQuery</li>
-    <li>React.Js</li>
-    <li>Next.Js</li>
+    <li>React.Js, Next.Js</li>
   </ul>
 
 ###
