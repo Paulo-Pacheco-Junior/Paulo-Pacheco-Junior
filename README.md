@@ -15,7 +15,7 @@
 </div>
 
 ###
-<h1 align="left">Formação</h1>
+<h1 align="left">Education and Training</h1>
   <ul>
     <li>B7Web - Frontend do Zero ao Profissional (Prof. Bonieky Lacerda)</li>
     <li>Curso em Vídeo (Prof. Gustavo Guanabara)-HTML, CSS, JavaScript, WordPress</li>
