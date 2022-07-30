@@ -1,11 +1,6 @@
 <p align="left">Hello World!! Welcome to my github profile.</p>
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=pejota-dev" height="150" alt="languages graph" />
-</div>
-
-###
 <h1 align="left">I code with</h1>
 
 ###
