@@ -3,9 +3,7 @@
 ###
 <h1 align="left">I code with</h1>
 <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
+    <li>HTML, CSS, JavaScript</li>
     <li>Bootstrap</li>
     <li>jQuery</li>
     <li>React.Js</li>
