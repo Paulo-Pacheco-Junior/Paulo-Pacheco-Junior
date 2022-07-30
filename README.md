@@ -13,4 +13,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg" height="40" width="52" alt="nextjs logo"  />
 </div>
-[Currículo Paulo Junior.pdf](https://github.com/Pejota-Dev/Pejota-Dev/files/9227754/Curriculo.Paulo.Junior.pdf)
+
+###
+<h1 align="left">Formação</h1>
+  <ul>
+    <li>B7Web - Frontend do Zero ao Profissional (Prof. Bonieky Lacerda)</li>
+    <li>Curso em Vídeo (Prof. Gustavo Guanabara)</li>
+    <li>Build Responsive Real-World Websites with HTML and CSS (Prof. Jonas Schmedtmann)</li>
+    <li>The Complete JavaScript Course: From Zero to Expert! (Prof. Jonas Schmedtmann)</li>
+    <li>Modern React with Redux (Prof. Stephen Grider)</li>
+    <li>Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks (Prof. John Smilga)</li>
+  </ul>
