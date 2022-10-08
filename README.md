@@ -8,7 +8,6 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg" height="40" width="52" alt="nextjs logo"  />
 </div>
 
 ###
@@ -17,7 +16,7 @@
     <li>HTML, CSS, JavaScript</li>
     <li>Bootstrap</li>
     <li>jQuery</li>
-    <li>React.Js, Next.Js</li>
+    <li>React.Js</li>
   </ul>
 
 ###
