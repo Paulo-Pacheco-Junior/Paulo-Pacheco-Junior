@@ -16,7 +16,7 @@
     <li>HTML, CSS, JavaScript</li>
     <li>Bootstrap</li>
     <li>jQuery</li>
-    <li>React.Js</li>
+    <li>React</li>
   </ul>
 
 ###
