@@ -13,18 +13,17 @@
 ###
 <h1 align="left">I code with</h1>
 <ul>
-    <li>HTML, CSS, JavaScript</li>
-    <li>Bootstrap</li>
-    <li>jQuery</li>
     <li>React</li>
-  </ul>
+    <li>Bootstrap</li>
+    <li>JavaScript</li>
+    <li>HTML</li>
+    <li>CSS</li> 
+</ul>
 
 ###
 <h1 align="left">Education and Training</h1>
   <ul>
     <li>B7Web - Frontend do Zero ao Profissional (Prof. Bonieky Lacerda)</li>
-    <li>Curso em Vídeo (Prof. Gustavo Guanabara)-HTML, CSS, JavaScript, WordPress</li>  
-    <li>Build Responsive Real-World Websites with HTML and CSS (Prof. Jonas Schmedtmann)</li>
     <li>Bootstrap 4 From Scratch With 5 Projects (Prof. Brad Traversy)</li>
     <li>The Complete JavaScript Course: From Zero to Expert! (Prof. Jonas Schmedtmann)</li>
     <li>Modern React with Redux (Prof. Stephen Grider)</li> 
