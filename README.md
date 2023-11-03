@@ -25,7 +25,7 @@
     <li>CSS</li> 
 </ul>
 
- >> Meu foco agora é LARAVEL, mas tenho uma base razoável de REACT <<
+Meu foco agora é LARAVEL, mas tenho uma base razoável de REACT
 
 ###
 <h1 align="left">Education and Training</h1>
