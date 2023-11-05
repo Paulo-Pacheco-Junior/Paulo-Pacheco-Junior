@@ -20,7 +20,7 @@
     <li>Bootstrap</li>
     <li>Tailwind CSS</li>
     <li>JavaScript</li>
-    <li>PhP</li>
+    <li>PHP</li>
     <li>HTML</li>
     <li>CSS</li> 
 </ul>
