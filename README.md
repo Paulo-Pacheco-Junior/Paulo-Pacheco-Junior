@@ -32,7 +32,7 @@ Meu foco agora é LARAVEL, mas tenho uma base razoável de REACT
   <ul>
     <li>Laravel: Construindo APIs REST (Prof. Nanderson Castro, Code Experts Cursos)</li>
     <li>Curso Full Stack LaraVue - Laravel + Vue (Prof. Tiago Matos) - CURSANDO</li>
-    <li>B7Web - Frontend do Zero ao Profissional (Prof. Bonieky Lacerda)</li>
+    <li>B7Web - Frontend do Zero ao Profissional (Prof. Bonieky Lacerda) - HTML, CSS, JavaScript, Bootstrap, React.Js</li>
     <li>Modern React with Redux (Prof. Stephen Grider)</li> 
     <li>Bootstrap 4 From Scratch With 5 Projects (Prof. Brad Traversy)</li>
     <li>The Complete JavaScript Course: From Zero to Expert! (Prof. Jonas Schmedtmann)</li>
