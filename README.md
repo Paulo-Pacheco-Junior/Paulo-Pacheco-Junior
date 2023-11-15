@@ -31,10 +31,9 @@ Meu foco agora é LARAVEL, mas tenho uma base razoável de REACT
 <h1 align="left">Education and Training</h1>
   <ul>
     <li>Laravel: Construindo APIs REST (Prof. Nanderson Castro, Code Experts Cursos)</li>
-    <li>Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS (Prof. Jorge Sant Ana) - CURSANDO</li>
+    <li>Curso Full Stack LaraVue - Laravel + Vue (Prof. Tiago Matos) - CURSANDO</li>
     <li>B7Web - Frontend do Zero ao Profissional (Prof. Bonieky Lacerda)</li>
+    <li>Modern React with Redux (Prof. Stephen Grider)</li> 
     <li>Bootstrap 4 From Scratch With 5 Projects (Prof. Brad Traversy)</li>
     <li>The Complete JavaScript Course: From Zero to Expert! (Prof. Jonas Schmedtmann)</li>
-    <li>Modern React with Redux (Prof. Stephen Grider)</li> 
-    <li>Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks (Prof. John Smilga)</li>
   </ul>
