@@ -26,7 +26,7 @@
 ###
 <h1 align="left">Education and Training</h1>
   <ul>
-    <li>The Ultimate React Course 2024:React, Redux & More (Prof. Jonas Schmedtmann)</li>
+    <li>The Ultimate React Course 2024: React, Redux & More (Prof. Jonas Schmedtmann)</li>
     <li>Curso Full Stack LaraVue - Laravel + Vue (Prof. Tiago Matos)</li>
     <li>Laravel: Construindo APIs REST (Prof. Nanderson Castro, Code Experts Cursos)</li>
     <li>B7Web - Frontend do Zero ao Profissional (Prof. Bonieky Lacerda)</li>
