@@ -15,6 +15,7 @@
 <h1 align="left">I code with</h1>
 <ul>
     <li>React</li>
+    <li>Vue</li>
     <li>Laravel</li>
     <li>JavaScript</li>
     <li>HTML</li>
