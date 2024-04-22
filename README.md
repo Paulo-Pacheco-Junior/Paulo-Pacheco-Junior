@@ -17,7 +17,7 @@
   
  - *Motivado pela realização de desafios complexos.* 
 
-## 🔮 Minha Stack
+## 🔮 Minha Stack :
 
 <div align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
@@ -48,6 +48,7 @@ Estas são algumas das tecnologias que mais uso no dia a dia
 
 ## 💡 Meus estudos :
   <ul>
+    <li>Rocketseat - Formação ReactJS (Prof. Diego Fernandes)</li>
     <li>The Ultimate React Course 2024: React, Redux & More (Prof. Jonas Schmedtmann)</li>
     <li>Curso Full Stack LaraVue - Laravel + Vue (Prof. Tiago Matos)</li>
     <li>Laravel: Construindo APIs REST (Prof. Nanderson Castro, Code Experts Cursos)</li>
