@@ -7,7 +7,7 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## 💡 Sobre mim :
- - *Me chamo Paulo Pacheco Júnior e sou de Goiânia - Goiás* 
+ - *Me chamo Paulo Pacheco Júnior* 
 
  - *Cursando a Formação ReactJS da Rocketseat* 
  
