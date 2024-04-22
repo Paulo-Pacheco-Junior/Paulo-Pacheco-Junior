@@ -7,15 +7,18 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## 💡 Sobre mim :
- - *Me chamo Paulo Pacheco Júnior* 
+ - *Desenvolvedor Full Stack há mais de 2 anos.* 
 
- - *Cursando a Formação ReactJS da Rocketseat* 
+ - *Cursando a Formação ReactJS da Rocketseat.* 
  
  - *Apaixonado em Desenvolvimento Web, especialmente pelo Front End 💙* 
    
  - *Apreciador da ciência, dos conhecimentos obtidos a partir de estudos e práticas, para encontrar soluções de problemas.*
   
- - *Motivado pela realização de desafios complexos.* 
+ - *Motivado pela realização de desafios complexos.*
+
+ - *Em busca do meu primeiro emprego na área como Desenvolvedor React.* 
+
 
 ## 🔮 Minha Stack :
 
