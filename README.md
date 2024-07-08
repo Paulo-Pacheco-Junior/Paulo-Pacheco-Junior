@@ -17,8 +17,6 @@
   
  - *Motivado pela realização de desafios complexos.*
 
- - *Em busca do meu primeiro emprego na área como: Desenvolvedor Front End React ou Desenvolvedor Full Stack React / Laravel*
-
 ## 🔮 Minha Stack :
 
 <div align="left">  
