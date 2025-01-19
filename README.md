@@ -13,7 +13,7 @@
 
  - *Complementando os meus estudos com a Plataforma Rocketseat.*
  
- - *Apaixonado em Desenvolvimento Web, especialmente pelo Front End 💙*
+ - *Apaixonado em Desenvolvimento Web, especialmente pelo Front-end 💙*
 
  - *Em busca de novas oportunidades para aplicar meus conhecimentos, evoluir e ganhar experiência na área.*
 
