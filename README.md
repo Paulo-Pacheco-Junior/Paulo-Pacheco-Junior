@@ -7,15 +7,11 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## 💡 Sobre mim :
- - *Desenvolvedor Full Stack há mais de 2 anos.* 
+ - *Desenvolvedor Full Stack há mais de 3 anos.* 
 
  - *Cursando a Formação ReactJS da Rocketseat.* 
  
  - *Apaixonado em Desenvolvimento Web, especialmente pelo Front End 💙* 
-   
- - *Apreciador da ciência, dos conhecimentos obtidos a partir de estudos e práticas, para encontrar soluções de problemas.*
-  
- - *Motivado pela realização de desafios complexos.*
 
 ## 🔮 Minha Stack :
 
@@ -24,15 +20,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" height="40" width="52" alt="laravel logo" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
 </div>
 <br/>
 <ul>
-    <li>React</li>
+    <li>ReactJs</li>
     <li>JavaScript</li>
     <li>CSS</li> 
     <li>HTML</li>
+    <li>NodeJs</li>
     <li>Laravel</li>
     <li>PHP</li>
 </ul>
@@ -48,12 +46,12 @@ Estas são algumas das tecnologias que mais uso no dia a dia
 
 ## 💡 Meus estudos :
   <ul>
+    <li>B7Web - Frontend do Zero ao Profissional (Prof. Bonieky Lacerda)</li>
+    <li>Rocketseat - Formação Full-Stack (Profs. Rodrigo Gonçalves e Mayk Brito)</li>
     <li>Rocketseat - Formação ReactJS (Prof. Diego Fernandes)</li>
-    <li>The Ultimate React Course 2024: React, Redux & More (Prof. Jonas Schmedtmann)</li>
+    <li>The Complete JavaScript Course: From Zero to Expert! (Prof. Jonas Schmedtmann)</li>
     <li>Curso Full Stack LaraVue - Laravel + Vue (Prof. Tiago Matos)</li>
     <li>Laravel: Construindo APIs REST (Prof. Nanderson Castro, Code Experts Cursos)</li>
-    <li>B7Web - Frontend do Zero ao Profissional (Prof. Bonieky Lacerda)</li>
-    <li>The Complete JavaScript Course: From Zero to Expert! (Prof. Jonas Schmedtmann)</li>
   </ul>
  
 ![Snake animation](https://github.com/Ricmaloy/Ricmaloy/blob/output/github-contribution-grid-snake.svg)
