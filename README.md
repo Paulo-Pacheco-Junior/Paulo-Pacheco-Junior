@@ -7,9 +7,11 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## 💡 Sobre mim :
- - *Desenvolvedor Full Stack há mais de 3 anos.* 
+ - *Desenvolvedor Front-end há mais de 3 anos.* 
 
- - *Cursando a Formação ReactJS da Rocketseat.* 
+ - *Cursando Análise e Desenvolvimento de Sistemas no IPOG.*
+
+ - *Complementando os meus estudos com a Plataforma Rocketseat.*
  
  - *Apaixonado em Desenvolvimento Web, especialmente pelo Front End 💙* 
 
