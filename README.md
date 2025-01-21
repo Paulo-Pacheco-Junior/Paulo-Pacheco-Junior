@@ -52,7 +52,7 @@ Estas são algumas das tecnologias que mais uso no dia a dia
   <ul>
     <li>B7Web - Frontend do Zero ao Profissional (Prof. Bonieky Lacerda)</li>
     <li>Rocketseat - Formação Full-Stack (Profs. Rodrigo Gonçalves e Mayk Brito)</li>
-    <li>Rocketseat - Formação ReactJS (Prof. Diego Fernandes)</li>
+    <li>Rocketseat - Formação ReactJs (Prof. Diego Fernandes)</li>
     <li>The Complete JavaScript Course: From Zero to Expert! (Prof. Jonas Schmedtmann)</li>
     <li>Curso Full Stack LaraVue - Laravel + Vue (Prof. Tiago Matos)</li>
     <li>Laravel: Construindo APIs REST (Prof. Nanderson Castro, Code Experts Cursos)</li>
