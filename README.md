@@ -7,13 +7,9 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## 💡 Sobre mim :
- - *Desenvolvedor Front-end há mais de 3 anos.* 
-
- - *Cursando Análise e Desenvolvimento de Sistemas no IPOG.*
-
- - *Complementando os meus estudos com a Plataforma Rocketseat.*
- 
- - *Apaixonado em Desenvolvimento Web, especialmente pelo Front-end 💙*
+Tenho experiência em Desenvolvimento Web com foco em Front-end (ReactJs) e Back-end (NodeJs, Laravel).
+Sou comprometido, curioso, colaborativo e gosto de desenvolver autonomia para desempenhar meu serviço. 
+Busco estar sempre atualizado e seguindo as melhores práticas do mercado.
 
  - *Em busca de novas oportunidades para aplicar meus conhecimentos, evoluir e ganhar experiência na área.*
 
