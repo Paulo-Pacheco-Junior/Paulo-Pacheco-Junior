@@ -40,7 +40,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e continuo evoluindo
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" height="40" width="52" alt="laravel logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo" />
   <img src="https://styled-components.com/logo.png" height="40" width="52" alt="styled-components logo" /> 
-  <img src="https://tailwindcss.com/_next/static/media/social-card-large.9a13d44e.jpg" height="40" width="52" alt="tailwindcss logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain-wordmark.svg" height="40" width="120" alt="tailwindcss logo" alt="tailwindcss logo" /> 
   
 ---
 
