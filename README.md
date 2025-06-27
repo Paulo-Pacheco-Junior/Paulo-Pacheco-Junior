@@ -38,16 +38,17 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e continuo evoluindo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="52" alt="nodejs logo" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" height="40" width="52" alt="laravel logo" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo" />
-
+  <img src="https://styled-components.com/logo.png" height="40" width="52" alt="styled-components logo" /> 
+  <img src="https://tailwindcss.com/_next/static/media/social-card-large.9a13d44e.jpg" height="40" width="52" alt="tailwindcss logo" /> 
+  
 ---
 
 ## 🚀 Stack Principal
 
-- **Front-end:** React · Next.js · TypeScript  
+- **Front-end:** React · Next.js · TypeScript · styled-components · Tailwind CSS
 - **Back-end:** Node.js · Express · TypeScript · Prisma · PostgreSQL  
-- **Outros:** Laravel · PHP
+- **Outros conhecimentos:** Laravel · PHP (estudos e um projeto simples, CRUD com JWT)
 
 ---
 
