@@ -15,6 +15,8 @@ Sou desenvolvedor web com foco em **Front-end usando React.js**, com mais de **3
 
 Meu principal projeto é o **Minhas Vendas**, um sistema web completo para gerenciamento de vendas e usuários, com controle de status, filtros avançados e diferentes níveis de acesso (como agentes e supervisores). Todo o sistema foi desenvolvido por mim, desde o Front-end até o Back-end, com foco em entregar uma solução funcional e completa.
 
+---
+
 ### 🔗 Projeto em Destaque: Minhas Vendas
 
 - **🧪 Site em Produção:** [vendasreact.vercel.app](https://vendasreact.vercel.app)  
@@ -36,24 +38,19 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e continuo evoluindo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="52" alt="nodejs logo" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" height="40" width="52" alt="laravel logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo" />
 </div>
 
-<br/>
+---
 
-### 🧰 Minhas stacks favoritas:
+## 🚀 Stack Principal
 
-- React.js
-- Next.js
-- TypeScript
-- JavaScript
-- HTML & CSS
-- Node.js
-- Laravel
-- PHP
-  
+- **Front-end:** React · Next.js · TypeScript  
+- **Back-end:** Node.js · Express · TypeScript · Prisma · PostgreSQL  
+- **Outros:** Laravel · PHP
+
 ---
 
 ## 📚 Meus Estudos e Formações
